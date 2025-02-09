@@ -51,15 +51,13 @@ The **Hospital Patient Analysis** project focuses on understanding patient data 
 ### 2. **Daily Visits**
    - A line chart illustrating the number of patients visiting the hospital daily. This analysis highlights peaks and troughs in patient traffic.
 
-   - ![Screenshot 2025-02-09 183751](https://github.com/user-attachments/assets/b187eaf5-a1d3-4df5-be5a-1c0fcade7247)
+
 ![Screenshot 2025-02-09 183739](https://github.com/user-attachments/assets/60b93015-2c36-4ea8-8ce0-48b9a07acac7)
 
 
 ### 3. **Average Waiting Time**
    - A column graph depicting the average waiting time for patients. Includes insights into how waiting time correlates with patient satisfaction and delays.
 
-   - ![Screenshot 2025-02-09 183739](https://github.com/user-attachments/assets/d8681d54-003f-4858-b6ed-118f55fcabfb)
-![Screenshot 2025-02-09 183751](https://github.com/user-attachments/assets/7315be62-30b9-4e92-b17c-ec2583c3ee68)
 ![Screenshot 2025-02-09 183728](https://github.com/user-attachments/assets/5b37ddb6-8e0a-4b58-b0ac-e0ccb40de717)
 
 
@@ -71,7 +69,8 @@ The **Hospital Patient Analysis** project focuses on understanding patient data 
 
 ### 6. **Department Referral**
    - A bar chart analyzing which departments patients are referred to most frequently.
-
+     
+![image](https://github.com/user-attachments/assets/29e385e7-a2fb-49eb-a33d-0a9dafcd6a89)
 ---
 
 ## 🔍 Data Cleaning and Modeling
@@ -81,8 +80,7 @@ The **Hospital Patient Analysis** project focuses on understanding patient data 
    - Transformed non-continuous date records into usable formats.
    - Standardized inconsistent data entries (e.g., gender values such as "M/F" standardized to "Male/Female").
      
-![image](https://github.com/user-attachments/assets/29e385e7-a2fb-49eb-a33d-0a9dafcd6a89)
-![Screenshot 2025-02-09 183751](https://github.com/user-attachments/assets/986d96c7-8edf-4694-9bc1-ffad9b387b59)
+
 ![Screenshot 2025-02-09 021447](https://github.com/user-attachments/assets/b3bd4851-2a24-4889-a1c3-8fa8253d3c3e)
 
 
@@ -95,7 +93,6 @@ The **Hospital Patient Analysis** project focuses on understanding patient data 
       - **Delay Status**: A calculated column was added to flag if a patient experienced a delay (waiting time > 30 minutes).
 
 ![Screenshot 2025-02-09 032142](https://github.com/user-attachments/assets/bce906bc-ffaa-43cd-a634-80035961bc0d)
-![Screenshot 2025-02-09 183751](https://github.com/user-attachments/assets/90005c2a-5699-45c9-b444-a2648828f823)
 
 
 ---
